@@ -1,0 +1,739 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Raleway", sans-serif;
+}
+.footer_section {
+  transition: all 0.5s ease;
+  width: 100%;
+  background-color: #2f2f2f;
+}
+.nav-item {
+  transition: all 0.5s ease;
+  margin: 0px 30px;
+  text-decoration: none;
+}
+/* .nav-item:hover img {
+  transition: all 0.5s ease;
+  opacity: 1;
+} */
+.nav-item:hover p {
+  color: #b3b3b3;
+}
+.nav-item:hover {
+  color: #f05a26;
+  text-decoration: none;
+}
+@media screen and (max-width: 768px) {
+  .nav-item img {
+    /* transition: all 0.5s ease;
+    opacity: 1 !important; */
+  }
+  .nav-item {
+    margin: 10px 0px 0px 0px;
+  }
+}
+.nav-item img {
+  /* width: 30px; */
+  /* opacity: 0; */
+  height: 24px;
+}
+.nav-item p {
+  margin-bottom: 0px;
+  color: #f05a26;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 19px;
+  letter-spacing: 1px;
+  text-decoration: none;
+}
+.navbar-brand img {
+  width: 124px;
+}
+
+.navbar-toggler:focus {
+  outline: none;
+  box-shadow: none !important;
+  transition: none !important;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 20px;
+  border: none;
+  outline: none;
+  background-color: #f05a26;
+  color: white;
+  cursor: pointer;
+  padding: 5px 20px;
+  border-radius: 8px 0px;
+}
+
+#myBtn:hover {
+  background-color: #e16237;
+}
+.footer_wrap {
+  padding: 40px 60px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.footer_wrap_item {
+  text-align: center;
+  margin: 0px 10px;
+}
+.footer_wrap_item img {
+  width: 150px;
+  margin-bottom: 1.25rem;
+}
+.footer_wrap_item2 {
+  width: 200px;
+}
+.footer_wrap_item2 {
+  width: 80%;
+  text-align: center;
+  margin: 0px 10px;
+}
+.footer_wrap_item2 h1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.265rem;
+  line-height: 48px;
+  text-align: center;
+  color: #ffffff;
+}
+.footer_wrap_item2 p {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.175rem;
+  line-height: 39px;
+  color: #ffffff;
+}
+.footer_wrap_item2 h6 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 40px;
+  color: #f05a26;
+}
+.footer_wrap_item2 h5 {
+  font-size: 17px;
+  line-height: 20px;
+  color: #f2f2f2;
+  text-align: right;
+}
+.icons_foot a i {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 32px;
+  color: #ffffff;
+  margin: 0px 10px;
+}
+.card_slick {
+  width: 300px;
+  margin: 0px 10px;
+  border: 0.0625rem solid rgb(41, 113, 137);
+}
+.footer_section {
+  position: relative;
+  bottom: 0px;
+}
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+.slidesbg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+  background-image: url("https://res.cloudinary.com/tuskmelonimagestorage/image/upload/v1661345334/concordassets/future-factory-plant-energy-industry-concept_1_1_o2bxjc.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+.video-wrapper {
+  width: 100%;
+  height: 90vh;
+  overflow: hidden;
+}
+.video-wrapper2 {
+  width: 100%;
+  /* height: 90vh; */
+  overflow: hidden;
+}
+.video-wrapper video {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+.video-wrapper2 video {
+  /* object-fit: cover; */
+  width: 100%;
+  height: 80vh;
+}
+.floating_section {
+  width: 100%;
+  overflow: hidden;
+  padding: 18px 80px;
+  background-color: #262626;
+}
+.floating_wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.fo_wrap {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.floating_wrap_item {
+  margin: 10px 0px;
+  padding: 6px;
+  width: 76px;
+  border-radius: 50%;
+  text-align: center;
+  margin: auto;
+  cursor: pointer;
+  transition: all 0.5s ease;
+  background-color: #6666667b;
+  /* background-color: #262626; */
+  /* animation: glow 1s ease-in-out infinite alternate; */
+}
+
+.borderb {
+  padding: 14px;
+  width: 64px;
+  transition: all 0.5s ease;
+  /* background-color: #f05a26; */
+  /* height: 68px; */
+  border-radius: 50%;
+  text-align: center;
+  margin: auto;
+  cursor: pointer;
+  border: 1px solid #918b89;
+}
+.floating_wrap_item .borderb img {
+  max-width: 40px;
+  height: 30px;
+  text-align: center;
+  margin: auto;
+  transition: all 0.5s ease;
+  /* padding-bottom: 10px; */
+}
+.fo_wrap :hover .apple path {
+  fill: #ffee10;
+}
+/* .apple:hover path {
+  fill: #72a200;
+} */
+.floating_wrap_item p {
+  display: none;
+  margin-bottom: 0px !important;
+}
+.fo_wrap:hover img {
+  /* color: #f05a26; */
+  transition: all 0.5s ease;
+  fill: #326228;
+  /* fill-opacity: 0.5; */
+  /* transform: scale(1.2); */
+  /* transform: rotateY(180deg); */
+}
+.fo_wrap p {
+  margin: 10px 0px;
+  opacity: 0;
+  display: none;
+}
+.fo_wrap:hover p {
+  color: #f05a26;
+  transition: all 0.5s ease;
+  opacity: 1;
+}
+.fo_wrap:hover i {
+  color: #f05a26;
+}
+.floating_wrap_item:hover {
+  transition: all 0.5s ease;
+  transform: scale(1.06);
+  box-shadow: 0 0 16px #ffee10;
+  outline: 3px solid #ffee10;
+}
+
+.fo_wrap:hover .borderb {
+  /* border: 4px solid #f05a26; */
+  /* box-shadow: 0 0 15px #f05a26; */
+}
+.title_concord {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 48px;
+  text-transform: capitalize;
+  color: #5b5b5b;
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 18px;
+}
+.title_concord_desc {
+  font-style: normal;
+  font-weight: 900;
+  font-size: 22px;
+  line-height: 34px;
+  text-transform: capitalize;
+  color: #ffffff;
+  background-color: #f05a26;
+  max-width: 30%;
+  padding: 12px;
+  margin: auto;
+  text-align: center;
+  border-radius: 20px 0px;
+}
+@media (max-width: 1199.98px) {
+  .modal-fullscreen-lg {
+    padding: 0 !important;
+  }
+  .modal-fullscreen-lg .modal-dialog {
+    width: 100%;
+    max-width: none;
+    height: 100%;
+    margin: 0;
+    background-color: #e16237;
+  }
+  .modal-fullscreen-lg .modal-content {
+    height: 100%;
+    border: 0;
+    border-radius: 0;
+    background-color: #e16237 !important;
+  }
+  .modal-fullscreen-lg .modal-body {
+    overflow-y: auto;
+  }
+}
+.modal-content {
+  justify-content: center !important;
+}
+.modal-fullscreen-xl {
+  padding: 0 !important;
+}
+.modal-fullscreen-xl .modal-dialog {
+  width: 100%;
+  max-width: none;
+  height: 100%;
+  margin: 0;
+}
+.modal-fullscreen-xl .modal-content {
+  height: 100%;
+  border: 0;
+  border-radius: 0;
+}
+.modal-fullscreen-xl .modal-body {
+  overflow-y: auto;
+}
+.btn-open-modal {
+  margin-bottom: 0.5em;
+}
+.modal-content {
+  /* background-color: #e16237 !important; */
+  background-image: url("../assets/IndustrialBG.jpg") !important;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.btn-close {
+  font-size: 1.3rem !important;
+  color: #e16237 !important;
+}
+.videos {
+  position: relative !important;
+  z-index: 9999;
+}
+.picture_article {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto !important;
+  background-image: url("https://res.cloudinary.com/tuskmelonimagestorage/image/upload/v1661328488/concordassets/HUD_2_2_bdtpxb.gif");
+  background-repeat: no-repeat;
+  mix-blend-mode: lighten;
+  background-position: center center;
+  background-size: 400px !important;
+  height: 100%;
+}
+.picture_article img {
+  position: absolute;
+  z-index: 9999;
+}
+
+.picture_show {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 400px;
+  transition: 0.5s ease;
+}
+.item__person_article {
+  height: 380px;
+  opacity: 0;
+  display: none;
+  text-align: center;
+}
+
+.item__person_article.reveal {
+  display: block;
+  opacity: 1;
+}
+.person_stand {
+  position: relative !important;
+}
+.person_stand img {
+  max-height: 80vh;
+}
+.item__person_text {
+  width: 80%;
+  color: #f9f9f9;
+  text-align: center;
+  margin: auto;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.item__person_article img {
+  /* height: 500px; */
+
+  width: 250px;
+}
+.item_menu_list {
+  position: absolute;
+}
+.item_menu_list .item_menus {
+  color: #fff;
+}
+.item_menu_list .item_menus:nth-child(1) {
+  position: relative;
+  left: 330px;
+}
+.item_menu_list .item_menus:nth-child(2) {
+  position: relative;
+  left: 130px;
+}
+
+.item_menu_list .item_menus:nth-child(3) {
+  position: relative;
+  top: 100px;
+  left: 330px;
+}
+.item_menu_list .item_menus:nth-child(4) {
+  position: relative;
+  /* top: 100px; */
+  bottom: -400px;
+}
+
+.logos {
+  position: relative;
+  /* height: 100vh; */
+}
+.logos_read_more {
+  width: 300px;
+  height: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: absolute;
+  left: 40%;
+  top: 44%;
+  border-radius: 10px 0px;
+  color: #fff;
+  cursor: pointer;
+  background-image: url("https://res.cloudinary.com/tuskmelonimagestorage/image/upload/v1661415321/concordassets/scratch_o4e0de.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-size: 100% 100px; */
+}
+.section_titles h4 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 18px;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+.section_titles h3 {
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 36px;
+  text-transform: capitalize;
+  color: #f05a26;
+}
+.section_title_desc h2 {
+  color: #f05a26;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 38px;
+  text-transform: capitalize;
+}
+.section_title_desc p {
+  width: 300px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+.st0 {
+  fill: none;
+  stroke: #f15a27;
+  stroke-miterlimit: 20;
+  stroke-dasharray: 3.9627, 3.9627;
+}
+/* .st0:hover {
+  fill: #f05a26 !important;
+  stroke: #ffffff;
+} */
+.st1 {
+  fill: #ffffff;
+}
+
+.st2 {
+  font-family: "Jost-Bold";
+}
+
+.st3 {
+  font-size: 13.9279px;
+}
+
+.st4 {
+  fill: none;
+  stroke: #d33800;
+  stroke-miterlimit: 20;
+  stroke-dasharray: 3.995, 3.995;
+}
+
+.st5 {
+  fill: none;
+  stroke: #d33800;
+  stroke-miterlimit: 20;
+  stroke-dasharray: 3.9777, 3.9777;
+}
+
+.st6 {
+  fill: none;
+  stroke: #d33800;
+  stroke-miterlimit: 20;
+  stroke-dasharray: 4.042, 4.042;
+}
+.st7 {
+  fill: none;
+  stroke: #ffffff;
+  stroke-miterlimit: 10;
+}
+
+.st1.st2.st3 {
+  cursor: pointer !important;
+}
+.st1.st2.st3:hover {
+  fill: #f05a26;
+}
+.section_hidden {
+  opacity: 0;
+  transform: translateY(10rem);
+  transition: all 0.8s ease;
+}
+.main_section {
+  transition: transform 1s, opacity 1s;
+}
+#fireman_image {
+  width: 450px;
+}
+#military_image {
+  width: 520px;
+}
+#police_image {
+  width: 450px;
+}
+#riders_image {
+  width: 520px;
+}
+@media screen and (max-width: 998px) {
+  #fireman_image {
+    width: 100% !important;
+  }
+  #military_image {
+    width: 100% !important;
+  }
+  #police_image {
+    width: 100% !important;
+  }
+  #riders_image {
+    width: 100% !important;
+  }
+}
+g {
+  cursor: pointer !important;
+}
+rect {
+  cursor: pointer !important;
+}
+/* rect:hover {
+  fill: #f05a26 !important;
+  color: #fff !important;
+  stroke: #fff !important;
+} */
+#wrapper_2 {
+  width: 100%;
+  margin: 0 auto;
+}
+.p-absolutes {
+  /* height: 800px; */
+  position: relative;
+  overflow: hidden;
+}
+/* .wrapper_2 {
+  z-index: 9999;
+} */
+.giggle1 {
+  /* width: 600px; */
+  z-index: 1;
+  right: -145px;
+  top: 10%;
+  position: absolute;
+}
+.giggle2 {
+  width: 200px;
+  z-index: 1;
+  position: absolute;
+}
+.img_client {
+  position: relative;
+  /* height: 1000px; */
+  height: 110vh;
+  background-image: url("https://res.cloudinary.com/tuskmelonimagestorage/image/upload/v1661419725/concordassets/lines_ias06u.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  z-index: 1;
+}
+.img_section {
+  z-index: 999;
+}
+.img_set {
+  width: 200px;
+}
+.img_set img {
+  position: relative;
+  width: 100%;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+.img_set img:hover {
+  -webkit-transform: rotateY(-180deg);
+}
+.img_set:nth-child(1) {
+  position: absolute;
+  width: 124px;
+  top: 120px;
+  left: 170px;
+}
+.img_set:nth-child(2) {
+  position: absolute;
+  width: 124px;
+  top: 20px;
+  left: 450px;
+}
+.img_set:nth-child(3) {
+  position: absolute;
+  width: 124px;
+  top: 20px;
+  right: 200px;
+}
+.img_set:nth-child(4) {
+  position: absolute;
+  width: 124px;
+  top: 260px;
+  right: 160px;
+}
+.img_set:nth-child(5) {
+  position: absolute;
+  width: 124px;
+  top: 490px;
+  right: 100px;
+}
+.img_set:nth-child(6) {
+  position: absolute;
+  width: 124px;
+  top: 400px;
+  left: 450px;
+}
+.img_set:nth-child(7) {
+  position: absolute;
+  width: 124px;
+  top: 280px;
+  left: 100px;
+}
+.img_set:nth-child(8) {
+  position: absolute;
+  width: 124px;
+  top: 500px;
+  left: 100px;
+}
+.img_set:nth-child(9) {
+  position: absolute;
+  width: 124px;
+  top: 380px;
+  right: 400px;
+}
+.img_set:nth-child(10) {
+  position: absolute;
+  width: 124px;
+  top: 490px;
+  right: 250px;
+}
+.img_set:nth-child(11) {
+  position: absolute;
+  width: 124px;
+  top: 210px;
+  left: 360px;
+}
+.img_set:nth-child(12) {
+  position: absolute;
+  width: 124px;
+  top: 100px;
+  right: 430px;
+}
+.img_set:nth-child(13) {
+  position: absolute;
+  width: 124px;
+  top: 220px;
+  right: 300px;
+}
+.img_set:nth-child(14) {
+  position: absolute;
+  width: 124px;
+  top: 390px;
+  left: 180px;
+}

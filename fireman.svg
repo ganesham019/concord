@@ -1,0 +1,26 @@
+
+<svg id="Layer_1" data-name="Layer 1" width="80%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 678 663">
+  <g id="SAFETYHELMET" class="type " data-object="5">
+    <text transform="translate(6 52)" style="isolation: isolate;font-size: 22.092487335205078px;fill: #fff;font-family: Jost-Bold, "Jost*";font-weight: 700"><tspan xml:space="preserve"> SA</tspan><tspan x="37" y="0" style="letter-spacing: -0.029969888177548386em">F</tspan><tspan x="48" y="0">TEY HELMET</tspan></text>
+    <rect x="4" y="27" width="194" height="32.27" style="fill: none;stroke: #f15a27;stroke-miterlimit: 20;stroke-dasharray: 3.990000009536743,3.990000009536743"/>
+  </g>
+  <g id="SAFETYSUIT" class="type " data-object="6">
+    <text transform="translate(512 233)" style="isolation: isolate;font-size: 22.092487335205078px;fill: #fff;font-family: Jost-Bold, "Jost*";font-weight: 700"><tspan xml:space="preserve"> SA</tspan><tspan x="37" y="0" style="letter-spacing: -0.029969888177548386em">F</tspan><tspan x="48" y="0">TEY SUIT</tspan></text>
+    <rect x="508" y="210" width="157" height="32.27" style="fill: none;stroke: #f15a27;stroke-miterlimit: 20;stroke-dasharray: 3.990000009536743,3.990000009536743"/>
+  </g>
+  <g id="SAFETYGLOVE" class="type " data-object="8">
+    <text transform="translate(4 362)" style="isolation: isolate;font-size: 22.092487335205078px;fill: #fff;font-family: Jost-Bold, "Jost*";font-weight: 700"><tspan xml:space="preserve"> SA</tspan><tspan x="37" y="0" style="letter-spacing: -0.029969888177548386em">F</tspan><tspan x="48" y="0">TEY G</tspan><tspan x="113" y="0" style="letter-spacing: -0.03001409155244152em">LO</tspan><tspan x="142" y="0">VE</tspan></text>
+    <rect x="1" y="338" width="184" height="32.27" style="fill: none;stroke: #f15a27;stroke-miterlimit: 20;stroke-dasharray: 3.990000009536743,3.990000009536743"/>
+  </g>
+  <g id="SAFETYSHOE" class="type " data-object="7">
+    <g id="SAFETYSHOE-2" data-name="SAFETYSHOE">
+      <text transform="translate(506 646)" style="isolation: isolate;font-size: 22.092487335205078px;fill: #fff;font-family: Jost-Bold, "Jost*";font-weight: 700"><tspan xml:space="preserve"> SA</tspan><tspan x="37" y="0" style="letter-spacing: -0.02999198986499495em">F</tspan><tspan x="48" y="0">TEY SHOE</tspan></text>
+    </g>
+    <rect x="503" y="621" width="174" height="32.27" style="fill: none;stroke: #f15a27;stroke-miterlimit: 20;stroke-dasharray: 3.990000009536743,3.990000009536743"/>
+  </g>
+  <image id="FIREMAN" width="249" height="663" transform="translate(218 0)" xlink:href="./assets/Industryperson2.png" style="isolation: isolate"/>
+  <line id="LINE1" x1="208" y1="43" x2="295" y2="43" style="fill: none;stroke: #fff;stroke-miterlimit: 10"/>
+  <line id="LINE2" x1="457" y1="227" x2="501" y2="227" style="fill: none;stroke: #fff;stroke-miterlimit: 10"/>
+  <line id="LINE3" x1="192" y1="356" x2="222" y2="356" style="fill: none;stroke: #fff;stroke-miterlimit: 10"/>
+  <line id="LINE4" x1="465" y1="639" x2="495" y2="639" style="fill: none;stroke: #fff;stroke-miterlimit: 10"/>
+</svg>

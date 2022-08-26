@@ -1,0 +1,118 @@
+
+
+
+<!-- <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"  width="70%" height="100%"  xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+
+viewBox="0 0 600 656.22" style="enable-background:new 0 0 600 656.22;" xml:space="preserve">
+
+<style type="text/css">
+
+
+
+</style>
+
+<g id="FULLINDUSTRYMAN">
+
+
+
+<image style="overflow:visible;" width="309" height="677" id="INDUSTRYMAN" xlink:href="./assets/Industryperson1.png"  transform="matrix(0.9453 0 0 0.9453 180.083 11.6777)">
+
+</image>
+
+<g id="SAFETYSHOE" class="type " data-object="1">
+
+<g>
+
+<path class="st0"  d="M172.83,602.73h-88.9c-6.6,0-12-5.4-12-12v-0.24c0-6.6,5.4-12,12-12h88.9c6.6,0,12,5.4,12,12v0.24
+
+C184.83,597.33,179.43,602.73,172.83,602.73z"/>
+
+</g>
+
+<text transform="matrix(1 0 0 1 80.6359 595.7013)" class="st1 st2 st3">SAFETY SHOE </text>
+
+</g>
+
+<g id="SAFETYSUIT " class="type " data-object="2">
+
+<g>
+
+<path class="st4"  d="M528.74,266.06h-85.94c-6.6,0-12-5.4-12-12v-0.24c0-6.6,5.4-12,12-12h85.94c6.6,0,12,5.4,12,12v0.24
+
+C540.74,260.66,535.34,266.06,528.74,266.06z"/>
+
+</g>
+
+<text transform="matrix(1 0 0 1 441.9225 259.2831)" class="st1 st2 st3">SAFETY SUIT </text>
+
+</g>
+
+<g id="SAFETYEAR" class="type " data-object="3">
+
+<g>
+
+<path class="st5"  d="M210.45,92.36H31.25c-6.6,0-12-5.4-12-12v-5.89c0-6.6,5.4-12,12-12h179.2c6.6,0,12,5.4,12,12v5.89
+
+C222.45,86.96,217.05,92.36,210.45,92.36z"/>
+
+</g>
+
+<text transform="matrix(1 0 0 1 32.9328 83.9653)" class="st1 st2 st3">SAFETY EAR PROTECTION</text>
+
+</g>
+
+<g id="SAFETYHELMET" class="type " data-object="4">
+
+<g>
+
+<path class="st6"  d="M568.75,44.69H466.79c-6.6,0-12-5.4-12-12V26.8c0-6.6,5.4-12,12-12h101.96c6.6,0,12,5.4,12,12v5.89
+
+C580.75,39.29,575.35,44.69,568.75,44.69z"/>
+
+</g>
+
+<text transform="matrix(1 0 0 1 460.8088 36.2985)" class="st1 st2 st3">SAFETY HELMET</text>
+
+</g>
+
+<polyline class="st7" points="372.56,62.47 415.86,62.47 415.86,29.75 448.73,29.75 "/>
+
+<polyline class="st7" points="282.3,106.96 243.69,106.96 243.69,79.31 226.99,79.31 "/>
+
+<polyline class="st7" points="252.03,627.14 225.43,627.14 225.43,590.62 190.47,590.62 "/>
+
+<line class="st7" x1="400.21" y1="259.28" x2="424.73" y2="259.28"/>
+
+</g>
+
+</svg>
+ -->
+
+
+
+
+<svg id="Layer_1" data-name="Layer 1" width="80%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 812 677">
+  <image id="INDUSTRYMAN" width="309" height="677" transform="translate(304 0)" xlink:href="./assets/Industryperson1.png"  style="isolation: isolate"/>
+  <polyline id="LINE1" points="506 54 552 54 552 20 613 20" style="fill: none;stroke: #fff;stroke-miterlimit: 10"/>
+  <polyline id="LINE2" points="411 101 371 101 371 72 304 72" style="fill: none;stroke: #fff;stroke-miterlimit: 10"/>
+  <polyline id="LINE4" points="379 648 351 648 351 610 300 610" style="fill: none;stroke: #fff;stroke-miterlimit: 10"/>
+  <line id="LINE3" x1="535" y1="261" x2="617" y2="261" style="fill: none;stroke: #fff;stroke-miterlimit: 10"/>
+  <g id="SAFETYEARPROTECTION" class="type " data-object="3">
+    <text transform="translate(5 78)" style="isolation: isolate;font-size: 22.092487335205078px;fill: #fff;font-family: Jost-Bold, "Jost*";font-weight: 700"><tspan xml:space="preserve"> SA</tspan><tspan x="37" y="0" style="letter-spacing: -0.02999198986499495em">F</tspan><tspan x="48" y="0">TEY EAR PR</tspan><tspan x="174" y="0" style="letter-spacing: -0.02999198986499495em">O</tspan><tspan x="191" y="0">TE</tspan><tspan x="217" y="0" style="letter-spacing: -0.03001409155244152em">C</tspan><tspan x="232" y="0" style="letter-spacing: 0.000022101687446569603em">TION</tspan></text>
+    <rect x="1" y="54" width="300" height="32.27" style="fill: none;stroke: #f15a27;stroke-miterlimit: 20;stroke-dasharray: 3.990000009536743,3.990000009536743"/>
+  </g>
+  <g id="SAFETYHELMET" class="type " data-object="4">
+    <text transform="translate(620 26)" style="isolation: isolate;font-size: 22.092487335205078px;fill: #fff;font-family: Jost-Bold, "Jost*";font-weight: 700"><tspan xml:space="preserve"> SA</tspan><tspan x="37" y="0" style="letter-spacing: -0.029969888177548386em">F</tspan><tspan x="48" y="0">TEY HELMET</tspan></text>
+    <rect x="618" y="1" width="194" height="32.27" style="fill: none;stroke: #f15a27;stroke-miterlimit: 20;stroke-dasharray: 3.990000009536743,3.990000009536743"/>
+  </g>
+  <g id="SAFETYSUIT" class="type " data-object="2">
+    <text transform="translate(629 265)" style="isolation: isolate;font-size: 22.092487335205078px;fill: #fff;font-family: Jost-Bold, "Jost*";font-weight: 700"><tspan xml:space="preserve"> SA</tspan><tspan x="37" y="0" style="letter-spacing: -0.029969888177548386em">F</tspan><tspan x="48" y="0">TEY SUIT</tspan></text>
+    <rect x="626" y="241" width="157" height="32.27" style="fill: none;stroke: #f15a27;stroke-miterlimit: 20;stroke-dasharray: 3.990000009536743,3.990000009536743"/>
+  </g>
+  <g id="SAFETYSHOE" class="type " data-object="1">
+    <g id="SAFETYSHOE-2" data-name="SAFETYSHOE">
+      <text transform="translate(126 618)" style="isolation: isolate;font-size: 22.092487335205078px;fill: #fff;font-family: Jost-Bold, "Jost*";font-weight: 700"><tspan xml:space="preserve"> SA</tspan><tspan x="37" y="0" style="letter-spacing: -0.02999198986499495em">F</tspan><tspan x="48" y="0">TEY SHOE</tspan></text>
+    </g>
+    <rect x="123" y="593" width="174" height="32.27" style="fill: none;stroke: #f15a27;stroke-miterlimit: 20;stroke-dasharray: 3.990000009536743,3.990000009536743"/>
+  </g>
+</svg>

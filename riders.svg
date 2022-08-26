@@ -1,0 +1,14 @@
+
+<svg id="BIKERIDERMAN" width="80%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 603 639">
+  <g id="SAFETYHELMET" class="type " data-object="16">
+    <text transform="translate(2 112)" style="isolation: isolate;font-size: 21.686098098754883px;fill: #fff;font-family: Jost-Bold, "Jost*";font-weight: 700"><tspan xml:space="preserve"> SA</tspan><tspan x="36" y="0" style="letter-spacing: -0.029991131739708514em">F</tspan><tspan x="47" y="0">TEY HELMET</tspan></text>
+    <rect x="1" y="87" width="191" height="31.67" style="fill: none;stroke: #f15a27;stroke-miterlimit: 20;stroke-dasharray: 3.990000009536743,3.990000009536743"/>
+  </g>
+  <g id="SAFETYSUIT" class="type " data-object="17">
+    <text transform="translate(450 348)" style="isolation: isolate;font-size: 21.686098098754883px;fill: #fff;font-family: Jost-Bold, "Jost*";font-weight: 700"><tspan xml:space="preserve"> SA</tspan><tspan x="36" y="0" style="letter-spacing: -0.030013647604377965em">F</tspan><tspan x="47" y="0" style="letter-spacing: 0.000022515864669450837em">TEY SUIT</tspan></text>
+    <rect x="445" y="325" width="157" height="31.67" style="fill: none;stroke: #f15a27;stroke-miterlimit: 20;stroke-dasharray: 3.990000009536743,3.990000009536743"/>
+  </g>
+  <image id="BIKERIDERMAN-2" data-name="BIKERIDERMAN" width="233" height="677" transform="translate(198 0) scale(0.94)" xlink:href="./assets/Industryperson5.png"/>
+  <polyline id="LINE2" points="378 273 422 273 422 343 437 343" style="fill: none;stroke: #fff;stroke-miterlimit: 10"/>
+  <polyline id="LINE1" points="264 54 97 54 97 75" style="fill: none;stroke: #fff;stroke-miterlimit: 10"/>
+</svg>

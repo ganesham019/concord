@@ -1,0 +1,27 @@
+
+
+<svg id="Layer_1" data-name="Layer 1" width="80%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 731 688">
+  <g id="SAFETYSUIT" class="type " data-object="15">
+    <text transform="translate(43 146)" style="isolation: isolate;font-size: 22.092487335205078px;fill: #fff;font-family: Jost-Bold, "Jost*";font-weight: 700"><tspan xml:space="preserve"> SA</tspan><tspan x="37" y="0" style="letter-spacing: -0.029969888177548386em">F</tspan><tspan x="48" y="0">TEY SUIT</tspan></text>
+    <rect x="39" y="122" width="157" height="32.27" style="fill: none;stroke: #f15a27;stroke-miterlimit: 20;stroke-dasharray: 3.990000009536743,3.990000009536743"/>
+  </g>
+  <g id="SAFETYHELMET" class="type " data-object="12">
+    <text transform="translate(468 71)" style="isolation: isolate;font-size: 22.092487335205078px;fill: #fff;font-family: Jost-Bold, "Jost*";font-weight: 700"><tspan xml:space="preserve"> SA</tspan><tspan x="37" y="0" style="letter-spacing: -0.029969888177548386em">F</tspan><tspan x="48" y="0">TEY HELMET</tspan></text>
+    <rect x="464" y="47" width="193" height="32.27" style="fill: none;stroke: #f15a27;stroke-miterlimit: 20;stroke-dasharray: 3.990000009536743,3.990000009536743"/>
+  </g>
+  <g id="BALLESTICSHEILD" class="type " data-object="14">
+    <text transform="translate(523 470)" style="isolation: isolate;font-size: 22.092487335205078px;fill: #fff;font-family: Jost-Bold, "Jost*";font-weight: 700"><tspan style="letter-spacing: -0.014984944088774193em">B</tspan><tspan x="14" y="0">ALLESTIC SHEILD</tspan></text>
+    <rect x="519" y="447" width="212" height="32.27" style="fill: none;stroke: #f15a27;stroke-miterlimit: 20;stroke-dasharray: 3.990000009536743,3.990000009536743"/>
+  </g>
+  <g id="SAFETYSHOE">
+    <g id="SAFETYSHOE-2" data-name="SAFETYSHOE" class="type " data-object="13">
+      <text transform="translate(4 620)" style="isolation: isolate;font-size: 22.092487335205078px;fill: #fff;font-family: Jost-Bold, "Jost*";font-weight: 700"><tspan xml:space="preserve"> SA</tspan><tspan x="37" y="0" style="letter-spacing: -0.02999198986499495em">F</tspan><tspan x="48" y="0">TEY SHOE</tspan></text>
+    </g>
+    <rect x="1" y="596" width="174" height="32.27" style="fill: none;stroke: #f15a27;stroke-miterlimit: 20;stroke-dasharray: 3.990000009536743,3.990000009536743"/>
+  </g>
+  <image width="262" height="677" transform="translate(207 0) scale(1.02)" xlink:href="./assets/Industryperson4.png"/>
+  <polyline id="LINE3" points="456 494 486 494 486 463 513 463" style="fill: none;stroke: #fff;stroke-miterlimit: 10"/>
+  <line id="LINE2" x1="390" y1="63" x2="451" y2="63" style="fill: none;stroke: #fff;stroke-miterlimit: 10"/>
+  <polyline id="LINE4" points="260 659 207 659 207 612 182 612" style="fill: none;stroke: #fff;stroke-miterlimit: 10"/>
+  <polyline id="LINE1" points="294 229 233 229 233 138 207 138" style="fill: none;stroke: #fff;stroke-miterlimit: 10"/>
+</svg>
